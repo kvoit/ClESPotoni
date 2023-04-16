@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Switch_DPDT")(type "KiCad")(uri "${KIPRJMOD}/pretty/Switch_DPDT.pretty")(options "")(descr ""))
+)
